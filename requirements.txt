@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+selenium
+pyautogui
+pyttsx3
+python-dotenv
+groq
+SpeechRecognition
+PyAudio
